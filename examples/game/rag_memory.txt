@@ -1,0 +1,21 @@
+长柄武器角色（英文名：Polearm character）：使用长柄武器作战的角色
+Polearm character: A character who fights with a polearm.
+长柄武器角色属于武器类型角色。
+长柄武器角色的实例包括：阿罗夏、阿蕾奇诺、坎蒂丝、夏沃蕾、赛诺、艾梅莉埃、爱可菲、菲林斯、胡桃、伊安珊、叶洛亚、伊涅芙、卡齐娜、洛恩、米卡、雷电将军、罗莎莉亚、申鹤、托马、香菱、魈、瑶瑶、云堇、钟离。
+长柄武器角色也被称为polearm user、长柄武器使用者、枪兵。
+<an English description of the concept, such as the lead section of its page on the game's community wiki>
+香菱（英文名：Xiangling；又称<nicknames>）是原神中的4星可操作角色，称号「<title>」，所属地区为璃月，所属势力为万民堂。
+香菱的元素属性为火，属于火属性角色。
+香菱使用的武器类型为长柄武器，属于长柄武器角色。
+香菱的官方角色定位为后台、输出，属于后台输出角色。
+香菱属于以下类型：火属性角色、长柄武器角色、后台输出角色。
+Xiangling is a 4-star Pyro character in Genshin Impact who wields a Polearm; character roles: Off-Field, DPS.
+香菱：<the character's description in the game data, in Chinese> Xiangling: <the same in English> 香菱的天赋：<the names of her normal attack, elemental skill and elemental burst, the last two with the first sentence of their descriptions>
+锅巴（英文名：Guoba）是香菱通过「锅巴出击」创造的召唤物。
+锅巴属于以下类型：召唤物。
+Guoba is created by Xiangling in Genshin Impact.
+锅巴：<the description of the skill that creates it, in Chinese> Guoba: <the same in English>
+匣里灭辰（英文名：Dragon's Bane）是原神中的4星长柄武器，属于武器中的长柄武器。副属性为元素精通。
+匣里灭辰属于以下类型：长柄武器。
+Dragon's Bane is a 4-star Polearm in Genshin Impact.
+匣里灭辰：<the weapon's description and effect in the game data, in Chinese> Dragon's Bane: <its description in English>

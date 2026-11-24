@@ -1,0 +1,43 @@
+[
+ {
+  "chunk_tokens": 1200,
+  "budget_tokens": 1800,
+  "rag_max_chunks": null,
+  "top_k": 3,
+  "top_n_children": 5,
+  "parent": true,
+  "s_rule": "greater",
+  "orag_max_items": null,
+  "prompt_style": "question_first",
+  "system": "typing_precise_short",
+  "max_tokens": 160,
+  "triple_tau": 0.2,
+  "rel_tau": 0.35,
+  "methods": [
+   "rag"
+  ],
+  "expand_eval": true,
+  "retrieval_query": "entity_query",
+  "query_instruction": "Given an entity mention in a passage, retrieve knowledge about the ontology types the entity belongs to",
+  "children_in_k": "all",
+  "examples": true,
+  "natural_names": true,
+  "wikidata_aliases": false,
+  "constrained": false,
+  "topk_types": false,
+  "ontology_note": false,
+  "child_depth": 1,
+  "paper_aliases": true,
+  "placeholder": false,
+  "channels": "separate",
+  "top_k_s": 3,
+  "parent_line": true,
+  "system_theme": true,
+  "seed": 0,
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "rag_budget_tokens": 2400,
+  "battery_rag": "ttl_nochildren",
+  "name": "battery_rag"
+ }
+]

@@ -1,0 +1,40 @@
+[
+ {
+  "chunk_tokens": 600,
+  "budget_tokens": 3000,
+  "rag_max_chunks": null,
+  "top_k": 3,
+  "top_n_children": 5,
+  "parent": true,
+  "s_rule": "greater",
+  "orag_max_items": null,
+  "prompt_style": "question_first",
+  "system": "typing_strict",
+  "max_tokens": 160,
+  "triple_tau": null,
+  "rel_tau": 0.35,
+  "methods": [
+   "rag",
+   "orag"
+  ],
+  "expand_eval": true,
+  "retrieval_query": "mix",
+  "query_instruction": "Given an entity mention in a passage, retrieve knowledge about the ontology types the entity belongs to",
+  "children_in_k": "all",
+  "examples": true,
+  "natural_names": false,
+  "wikidata_aliases": false,
+  "constrained": false,
+  "topk_types": false,
+  "ontology_note": true,
+  "child_depth": 1,
+  "game_rag_plain": false,
+  "channels": "separate",
+  "top_k_s": 1,
+  "system_theme": true,
+  "seed": 0,
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "name": "game"
+ }
+]

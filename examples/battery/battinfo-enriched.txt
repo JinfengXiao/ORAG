@@ -1,0 +1,12 @@
+RedoxFlowBattery means: <the elucidation of RedoxFlowBattery in BattINFO>
+RedoxFlowBattery includes following types: MembranelessFlowBattery, FullFlowBattery, HybridFlowBattery
+RedoxFlowBattery: <opening of the lead section of https://en.wikipedia.org/wiki/Flow_battery, in whole sentences, up to about 1,000 characters>
+RedoxFlowBattery, subclass of, rechargeable battery
+RedoxFlowBattery, Commons category, Flow batteries
+RedoxFlowBattery, schematic, Redox Flow Battery.jpg
+FullFlowBattery means: <the elucidation of FullFlowBattery in BattINFO>
+FullFlowBattery includes following types: NonAqueousMetallicFlowBattery, AqueousOrganicFlowBattery, NonAqueousOrganicFlowBattery, AqueousMetallicFlowBattery
+AqueousOrganicFlowBattery means: <the elucidation of AqueousOrganicFlowBattery in BattINFO>
+IronRedoxFlowBattery means: <the elucidation of IronRedoxFlowBattery in BattINFO>
+IronRedoxFlowBattery is also known as IRB, ISB, IronSaltBattery
+IronRedoxFlowBattery: <opening of the lead section of https://en.wikipedia.org/wiki/Iron_redox_flow_battery, in whole sentences, up to about 1,000 characters>

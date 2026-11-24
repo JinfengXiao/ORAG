@@ -1,0 +1,357 @@
+{
+ "角色": [
+  "Character"
+ ],
+ "可操作角色": [
+  "Playable character",
+  "playable"
+ ],
+ "元素属性角色": [
+  "Elemental character",
+  "character by element"
+ ],
+ "风属性角色": [
+  "Anemo character",
+  "风元素角色",
+  "风系角色"
+ ],
+ "火属性角色": [
+  "Pyro character",
+  "火元素角色",
+  "火系角色"
+ ],
+ "雷属性角色": [
+  "Electro character",
+  "雷元素角色",
+  "雷系角色"
+ ],
+ "岩属性角色": [
+  "Geo character",
+  "岩元素角色",
+  "岩系角色"
+ ],
+ "水属性角色": [
+  "Hydro character",
+  "水元素角色",
+  "水系角色"
+ ],
+ "冰属性角色": [
+  "Cryo character",
+  "冰元素角色",
+  "冰系角色"
+ ],
+ "草属性角色": [
+  "Dendro character",
+  "草元素角色",
+  "草系角色"
+ ],
+ "武器类型角色": [
+  "Character by weapon type",
+  "weapon type character"
+ ],
+ "单手剑角色": [
+  "Sword character",
+  "sword user",
+  "单手剑使用者"
+ ],
+ "双手剑角色": [
+  "Claymore character",
+  "claymore user",
+  "双手剑使用者"
+ ],
+ "长柄武器角色": [
+  "Polearm character",
+  "polearm user",
+  "长柄武器使用者",
+  "枪兵"
+ ],
+ "弓箭角色": [
+  "Bow character",
+  "bow user",
+  "archer",
+  "弓箭手",
+  "弓箭使用者"
+ ],
+ "法器角色": [
+  "Catalyst character",
+  "catalyst user",
+  "wizard",
+  "法师",
+  "法器使用者"
+ ],
+ "输出角色": [
+  "DPS character",
+  "DPS",
+  "damage dealer",
+  "输出"
+ ],
+ "站场输出角色": [
+  "On-field DPS character",
+  "on-field DPS",
+  "main DPS",
+  "主C",
+  "站场输出"
+ ],
+ "速切输出角色": [
+  "Quickswap DPS character",
+  "quickswap DPS",
+  "burst DPS",
+  "速切输出"
+ ],
+ "后台输出角色": [
+  "Off-field DPS character",
+  "off-field DPS",
+  "sub-DPS",
+  "sub DPS",
+  "副C",
+  "后台输出"
+ ],
+ "辅助角色": [
+  "Support character",
+  "support",
+  "辅助"
+ ],
+ "增伤辅助角色": [
+  "Buff support character",
+  "buffer",
+  "buff support",
+  "增伤辅助"
+ ],
+ "聚怪辅助角色": [
+  "Grouping support character",
+  "crowd control support",
+  "grouping support",
+  "聚怪辅助"
+ ],
+ "生存辅助角色": [
+  "Survivability support character",
+  "healer",
+  "shielder",
+  "survivability support",
+  "生存辅助"
+ ],
+ "不可操作角色": [
+  "Non-playable character",
+  "NPC",
+  "non-playable"
+ ],
+ "创造物": [
+  "Creation"
+ ],
+ "召唤物": [
+  "Summon"
+ ],
+ "岩造物": [
+  "Geo construct",
+  "construct",
+  "岩元素创造物",
+  "岩造物"
+ ],
+ "领域": [
+  "Field",
+  "domain field"
+ ],
+ "武器": [
+  "Weapon"
+ ],
+ "单手剑": [
+  "Sword",
+  "one-handed sword"
+ ],
+ "双手剑": [
+  "Claymore",
+  "two-handed sword",
+  "greatsword"
+ ],
+ "长柄武器": [
+  "Polearm",
+  "spear",
+  "lance"
+ ],
+ "弓箭": [
+  "Bow",
+  "弓"
+ ],
+ "法器": [
+  "Catalyst"
+ ],
+ "圣遗物": [
+  "Artifact",
+  "artifact set",
+  "relic"
+ ],
+ "输出圣遗物": [
+  "DPS artifact",
+  "offensive artifact",
+  "damage artifact"
+ ],
+ "辅助圣遗物": [
+  "Support artifact",
+  "utility artifact",
+  "supportive artifact"
+ ],
+ "敌人": [
+  "Enemy",
+  "monster",
+  "opponent"
+ ],
+ "普通敌人": [
+  "Common enemy",
+  "normal enemy",
+  "common monster"
+ ],
+ "精英敌人": [
+  "Elite enemy",
+  "elite monster"
+ ],
+ "首领": [
+  "Boss",
+  "boss enemy"
+ ],
+ "世界首领": [
+  "Normal boss",
+  "world boss",
+  "field boss",
+  "野外首领",
+  "大世界首领"
+ ],
+ "周本首领": [
+  "Weekly boss",
+  "weekly boss",
+  "周本"
+ ],
+ "材料": [
+  "Material",
+  "material item"
+ ],
+ "角色养成材料": [
+  "Character development material",
+  "character development item"
+ ],
+ "角色经验材料": [
+  "Character EXP material",
+  "character EXP material",
+  "经验书"
+ ],
+ "角色突破材料": [
+  "Character ascension material",
+  "character ascension material",
+  "突破材料"
+ ],
+ "天赋培养材料": [
+  "Talent level-up material",
+  "talent material",
+  "talent book",
+  "天赋书",
+  "天赋材料"
+ ],
+ "武器养成材料": [
+  "Weapon development material",
+  "weapon development item"
+ ],
+ "武器经验材料": [
+  "Weapon enhancement material",
+  "weapon EXP material",
+  "enhancement ore",
+  "魔矿"
+ ],
+ "武器突破材料": [
+  "Weapon ascension material",
+  "weapon ascension material"
+ ],
+ "区域特产": [
+  "Local specialty",
+  "local specialty",
+  "特产"
+ ],
+ "烹饪食材": [
+  "Cooking ingredient",
+  "ingredient",
+  "食材"
+ ],
+ "锻造材料": [
+  "Forging material",
+  "forging material",
+  "矿石"
+ ],
+ "技能": [
+  "Talent",
+  "talents",
+  "天赋"
+ ],
+ "普通攻击": [
+  "Normal attack",
+  "normal attack",
+  "平A",
+  "普攻"
+ ],
+ "元素战技": [
+  "Elemental skill",
+  "elemental skill",
+  "E技能",
+  "小技能"
+ ],
+ "元素爆发": [
+  "Elemental burst",
+  "elemental burst",
+  "burst",
+  "ult",
+  "大招"
+ ],
+ "固有天赋": [
+  "Passive talent",
+  "passive",
+  "passive talent"
+ ],
+ "命之座": [
+  "Constellation",
+  "constellation",
+  "命座"
+ ],
+ "元素反应": [
+  "Elemental reaction",
+  "reaction"
+ ],
+ "增幅反应": [
+  "Amplifying reaction",
+  "amplifying reaction"
+ ],
+ "剧变反应": [
+  "Transformative reaction",
+  "transformative reaction"
+ ],
+ "激化反应": [
+  "Additive reaction",
+  "quicken reaction",
+  "Quicken",
+  "additive reaction"
+ ],
+ "月曜反应": [
+  "Lunar reaction",
+  "lunar reaction",
+  "Lunar"
+ ],
+ "地区": [
+  "Region",
+  "nation",
+  "country"
+ ],
+ "蒙德": [
+  "Mondstadt"
+ ],
+ "璃月": [
+  "Liyue"
+ ],
+ "稻妻": [
+  "Inazuma"
+ ],
+ "须弥": [
+  "Sumeru"
+ ],
+ "枫丹": [
+  "Fontaine"
+ ],
+ "纳塔": [
+  "Natlan"
+ ]
+}

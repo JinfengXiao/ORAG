@@ -1,0 +1,638 @@
+{
+ "角色": {
+  "en": "Character",
+  "aliases": [],
+  "def_zh": "游戏中有名字的人物",
+  "def_en": "A named person in the game."
+ },
+ "可操作角色": {
+  "en": "Playable character",
+  "aliases": [
+   "playable"
+  ],
+  "def_zh": "玩家可以操作用于战斗的角色",
+  "def_en": "A character that the player can control in combat."
+ },
+ "元素属性角色": {
+  "en": "Elemental character",
+  "aliases": [
+   "character by element"
+  ],
+  "def_zh": "能造成元素伤害的角色",
+  "def_en": "A character that deals elemental damage."
+ },
+ "风属性角色": {
+  "en": "Anemo character",
+  "aliases": [
+   "风元素角色",
+   "风系角色"
+  ],
+  "def_zh": "驱使风元素的力量，造成风属性伤害",
+  "def_en": "Wields the power of Anemo and deals Anemo damage."
+ },
+ "火属性角色": {
+  "en": "Pyro character",
+  "aliases": [
+   "火元素角色",
+   "火系角色"
+  ],
+  "def_zh": "驱使火元素的力量，造成火属性伤害",
+  "def_en": "Wields the power of Pyro and deals Pyro damage."
+ },
+ "雷属性角色": {
+  "en": "Electro character",
+  "aliases": [
+   "雷元素角色",
+   "雷系角色"
+  ],
+  "def_zh": "驱使雷元素的力量，造成雷属性伤害",
+  "def_en": "Wields the power of Electro and deals Electro damage."
+ },
+ "岩属性角色": {
+  "en": "Geo character",
+  "aliases": [
+   "岩元素角色",
+   "岩系角色"
+  ],
+  "def_zh": "驱使岩元素的力量，造成岩属性伤害",
+  "def_en": "Wields the power of Geo and deals Geo damage."
+ },
+ "水属性角色": {
+  "en": "Hydro character",
+  "aliases": [
+   "水元素角色",
+   "水系角色"
+  ],
+  "def_zh": "驱使水元素的力量，造成水属性伤害",
+  "def_en": "Wields the power of Hydro and deals Hydro damage."
+ },
+ "冰属性角色": {
+  "en": "Cryo character",
+  "aliases": [
+   "冰元素角色",
+   "冰系角色"
+  ],
+  "def_zh": "驱使冰元素的力量，造成冰属性伤害",
+  "def_en": "Wields the power of Cryo and deals Cryo damage."
+ },
+ "草属性角色": {
+  "en": "Dendro character",
+  "aliases": [
+   "草元素角色",
+   "草系角色"
+  ],
+  "def_zh": "驱使草元素的力量，造成草属性伤害",
+  "def_en": "Wields the power of Dendro and deals Dendro damage."
+ },
+ "武器类型角色": {
+  "en": "Character by weapon type",
+  "aliases": [
+   "weapon type character"
+  ],
+  "def_zh": "按所使用的武器类型划分的可操作角色",
+  "def_en": "A playable character classified by the type of weapon it wields."
+ },
+ "单手剑角色": {
+  "en": "Sword character",
+  "aliases": [
+   "sword user",
+   "单手剑使用者"
+  ],
+  "def_zh": "使用单手剑作战的角色",
+  "def_en": "A character who fights with a sword."
+ },
+ "双手剑角色": {
+  "en": "Claymore character",
+  "aliases": [
+   "claymore user",
+   "双手剑使用者"
+  ],
+  "def_zh": "使用双手剑作战的角色",
+  "def_en": "A character who fights with a claymore."
+ },
+ "长柄武器角色": {
+  "en": "Polearm character",
+  "aliases": [
+   "polearm user",
+   "长柄武器使用者",
+   "枪兵"
+  ],
+  "def_zh": "使用长柄武器作战的角色",
+  "def_en": "A character who fights with a polearm."
+ },
+ "弓箭角色": {
+  "en": "Bow character",
+  "aliases": [
+   "bow user",
+   "archer",
+   "弓箭手",
+   "弓箭使用者"
+  ],
+  "def_zh": "使用弓箭进行远程射击的角色",
+  "def_en": "A character who fights with a bow (archer)."
+ },
+ "法器角色": {
+  "en": "Catalyst character",
+  "aliases": [
+   "catalyst user",
+   "wizard",
+   "法师",
+   "法器使用者"
+  ],
+  "def_zh": "使用法器作战的角色，又称法师",
+  "def_en": "A character who fights with a catalyst (wizard)."
+ },
+ "输出角色": {
+  "en": "DPS character",
+  "aliases": [
+   "DPS",
+   "damage dealer",
+   "输出"
+  ],
+  "def_zh": "擅长输出、造成伤害的角色",
+  "def_en": "A character who specializes in dealing damage."
+ },
+ "站场输出角色": {
+  "en": "On-field DPS character",
+  "aliases": [
+   "on-field DPS",
+   "main DPS",
+   "主C",
+   "站场输出"
+  ],
+  "def_zh": "制造持续伤害的角色",
+  "def_en": "A character who deals sustained damage while on the field."
+ },
+ "速切输出角色": {
+  "en": "Quickswap DPS character",
+  "aliases": [
+   "quickswap DPS",
+   "burst DPS",
+   "速切输出"
+  ],
+  "def_zh": "制造爆发伤害的角色",
+  "def_en": "A character who deals burst damage in quick-swap play."
+ },
+ "后台输出角色": {
+  "en": "Off-field DPS character",
+  "aliases": [
+   "off-field DPS",
+   "sub-DPS",
+   "sub DPS",
+   "副C",
+   "后台输出"
+  ],
+  "def_zh": "擅长使用召唤物、创造物、协同攻击、间歇性攻击、或后台攻击的角色",
+  "def_en": "A character who deals damage through summons, creations, coordinated, intermittent or off-field attacks."
+ },
+ "辅助角色": {
+  "en": "Support character",
+  "aliases": [
+   "support",
+   "辅助"
+  ],
+  "def_zh": "擅长强化队友、弱化对手、或保护队友的角色",
+  "def_en": "A character who buffs teammates, debuffs opponents, or protects teammates."
+ },
+ "增伤辅助角色": {
+  "en": "Buff support character",
+  "aliases": [
+   "buffer",
+   "buff support",
+   "增伤辅助"
+  ],
+  "def_zh": "擅长强化队友或弱化对手的角色",
+  "def_en": "A character good at buffing teammates or debuffing opponents."
+ },
+ "聚怪辅助角色": {
+  "en": "Grouping support character",
+  "aliases": [
+   "crowd control support",
+   "grouping support",
+   "聚怪辅助"
+  ],
+  "def_zh": "擅长聚集敌人的角色",
+  "def_en": "A character good at gathering enemies together."
+ },
+ "生存辅助角色": {
+  "en": "Survivability support character",
+  "aliases": [
+   "healer",
+   "shielder",
+   "survivability support",
+   "生存辅助"
+  ],
+  "def_zh": "提供护盾或治疗的角色",
+  "def_en": "A character who provides shields or healing."
+ },
+ "不可操作角色": {
+  "en": "Non-playable character",
+  "aliases": [
+   "NPC",
+   "non-playable"
+  ],
+  "def_zh": "玩家不能操作的角色",
+  "def_en": "A character the player cannot control."
+ },
+ "创造物": {
+  "en": "Creation",
+  "aliases": [],
+  "def_zh": "角色或怪物在战斗中创造的生物、物体或领域",
+  "def_en": "A creature, object or field created by a character or monster in combat."
+ },
+ "召唤物": {
+  "en": "Summon",
+  "aliases": [],
+  "def_zh": "角色或怪物在战斗中召唤的生物或物体，通常可以自动提供进攻或治疗",
+  "def_en": "A creature or object summoned by a character or monster in combat, usually attacking or healing automatically."
+ },
+ "岩造物": {
+  "en": "Geo construct",
+  "aliases": [
+   "construct",
+   "岩元素创造物",
+   "岩造物"
+  ],
+  "def_zh": "可被摧毁的创造物",
+  "def_en": "A creation that can be destroyed."
+ },
+ "领域": {
+  "en": "Field",
+  "aliases": [
+   "domain field"
+  ],
+  "def_zh": "在一定范围内提供增益、减益、或伤害效果",
+  "def_en": "Provides buffs, debuffs or damage within a certain area."
+ },
+ "武器": {
+  "en": "Weapon",
+  "aliases": [],
+  "def_zh": "可操作角色使用的武器",
+  "def_en": "A weapon used by playable characters."
+ },
+ "单手剑": {
+  "en": "Sword",
+  "aliases": [
+   "one-handed sword"
+  ],
+  "def_zh": "单手使用的细剑武器",
+  "def_en": "A slender sword wielded with one hand."
+ },
+ "双手剑": {
+  "en": "Claymore",
+  "aliases": [
+   "two-handed sword",
+   "greatsword"
+  ],
+  "def_zh": "双手使用的大剑武器",
+  "def_en": "A great sword wielded with two hands."
+ },
+ "长柄武器": {
+  "en": "Polearm",
+  "aliases": [
+   "spear",
+   "lance"
+  ],
+  "def_zh": "双手使用的长枪武器",
+  "def_en": "A long spear-like weapon wielded with two hands."
+ },
+ "弓箭": {
+  "en": "Bow",
+  "aliases": [
+   "弓"
+  ],
+  "def_zh": "可进行远程射击的武器",
+  "def_en": "A weapon for ranged shooting."
+ },
+ "法器": {
+  "en": "Catalyst",
+  "aliases": [],
+  "def_zh": "可进行中程攻击、且攻击附带神之眼属性的武器",
+  "def_en": "A weapon for mid-range attacks whose attacks carry the element of the wielder's Vision."
+ },
+ "圣遗物": {
+  "en": "Artifact",
+  "aliases": [
+   "artifact set",
+   "relic"
+  ],
+  "def_zh": "可操作角色装备时，大幅提升战斗属性的装备",
+  "def_en": "Equipment that greatly increases the combat attributes of the playable character who equips it."
+ },
+ "输出圣遗物": {
+  "en": "DPS artifact",
+  "aliases": [
+   "offensive artifact",
+   "damage artifact"
+  ],
+  "def_zh": "主要效果是提升装备者自身输出的圣遗物",
+  "def_en": "An artifact whose main effect increases the wearer's own damage output."
+ },
+ "辅助圣遗物": {
+  "en": "Support artifact",
+  "aliases": [
+   "utility artifact",
+   "supportive artifact"
+  ],
+  "def_zh": "主要效果是提升队伍的生存、或队友输出的圣遗物",
+  "def_en": "An artifact whose main effect increases the team's survivability or the teammates' damage output."
+ },
+ "敌人": {
+  "en": "Enemy",
+  "aliases": [
+   "monster",
+   "opponent"
+  ],
+  "def_zh": "向玩家发起攻击、或玩家攻击的对象",
+  "def_en": "An object that attacks the player or that the player attacks."
+ },
+ "普通敌人": {
+  "en": "Common enemy",
+  "aliases": [
+   "normal enemy",
+   "common monster"
+  ],
+  "def_zh": "大世界中常见的普通怪物",
+  "def_en": "A common monster found throughout the open world."
+ },
+ "精英敌人": {
+  "en": "Elite enemy",
+  "aliases": [
+   "elite monster"
+  ],
+  "def_zh": "比普通敌人更强大、掉落精英材料的怪物",
+  "def_en": "A stronger monster than common enemies that drops elite materials."
+ },
+ "首领": {
+  "en": "Boss",
+  "aliases": [
+   "boss enemy"
+  ],
+  "def_zh": "需要专门挑战的强大敌人",
+  "def_en": "A powerful enemy that must be challenged specifically."
+ },
+ "世界首领": {
+  "en": "Normal boss",
+  "aliases": [
+   "world boss",
+   "field boss",
+   "野外首领",
+   "大世界首领"
+  ],
+  "def_zh": "在大世界中可重复挑战、掉落角色突破材料的首领",
+  "def_en": "A boss in the open world that can be challenged repeatedly and drops character ascension materials."
+ },
+ "周本首领": {
+  "en": "Weekly boss",
+  "aliases": [
+   "weekly boss",
+   "周本"
+  ],
+  "def_zh": "每周可领取奖励的首领，掉落天赋培养材料",
+  "def_en": "A boss whose rewards can be claimed a limited number of times per week; drops talent materials."
+ },
+ "材料": {
+  "en": "Material",
+  "aliases": [
+   "material item"
+  ],
+  "def_zh": "可采集的物品，或战胜怪物后可获得的战利品，可用于强化角色或武器",
+  "def_en": "A collectible item or a spoil obtained from defeating monsters, used to enhance characters or weapons."
+ },
+ "角色养成材料": {
+  "en": "Character development material",
+  "aliases": [
+   "character development item"
+  ],
+  "def_zh": "用于提升角色等级、突破或天赋的材料",
+  "def_en": "A material used to level up, ascend or upgrade the talents of characters."
+ },
+ "角色经验材料": {
+  "en": "Character EXP material",
+  "aliases": [
+   "character EXP material",
+   "经验书"
+  ],
+  "def_zh": "提升角色经验等级的材料，如大英雄的经验",
+  "def_en": "A material that grants character EXP, e.g., Hero's Wit."
+ },
+ "角色突破材料": {
+  "en": "Character ascension material",
+  "aliases": [
+   "character ascension material",
+   "突破材料"
+  ],
+  "def_zh": "角色突破所需的材料，如元素晶石与首领掉落物",
+  "def_en": "A material required for character ascension, such as gemstones and boss drops."
+ },
+ "天赋培养材料": {
+  "en": "Talent level-up material",
+  "aliases": [
+   "talent material",
+   "talent book",
+   "天赋书",
+   "天赋材料"
+  ],
+  "def_zh": "提升角色天赋等级的材料，如天赋书与周本掉落物",
+  "def_en": "A material used to level up talents, such as talent books and weekly boss drops."
+ },
+ "武器养成材料": {
+  "en": "Weapon development material",
+  "aliases": [
+   "weapon development item"
+  ],
+  "def_zh": "用于提升武器等级或突破的材料",
+  "def_en": "A material used to enhance or ascend weapons."
+ },
+ "武器经验材料": {
+  "en": "Weapon enhancement material",
+  "aliases": [
+   "weapon EXP material",
+   "enhancement ore",
+   "魔矿"
+  ],
+  "def_zh": "提升武器经验等级的材料，如精锻用魔矿",
+  "def_en": "A material that grants weapon EXP, e.g., Mystic Enhancement Ore."
+ },
+ "武器突破材料": {
+  "en": "Weapon ascension material",
+  "aliases": [
+   "weapon ascension material"
+  ],
+  "def_zh": "武器突破所需的材料，通常在秘境中获得",
+  "def_en": "A material required for weapon ascension, usually obtained from domains."
+ },
+ "区域特产": {
+  "en": "Local specialty",
+  "aliases": [
+   "local specialty",
+   "特产"
+  ],
+  "def_zh": "各地区野外可采集的特产植物或矿物，用于角色突破",
+  "def_en": "A regional plant or mineral collected in the wild, used for character ascension."
+ },
+ "烹饪食材": {
+  "en": "Cooking ingredient",
+  "aliases": [
+   "ingredient",
+   "食材"
+  ],
+  "def_zh": "用于烹饪料理的食材",
+  "def_en": "An ingredient used to cook dishes."
+ },
+ "锻造材料": {
+  "en": "Forging material",
+  "aliases": [
+   "forging material",
+   "矿石"
+  ],
+  "def_zh": "用于锻造武器的矿石等材料",
+  "def_en": "Ore and other materials used to forge weapons."
+ },
+ "技能": {
+  "en": "Talent",
+  "aliases": [
+   "talents",
+   "天赋"
+  ],
+  "def_zh": "可操作角色的天赋与命之座等能力",
+  "def_en": "The abilities of playable characters, including combat talents, passive talents and constellations."
+ },
+ "普通攻击": {
+  "en": "Normal attack",
+  "aliases": [
+   "normal attack",
+   "平A",
+   "普攻"
+  ],
+  "def_zh": "角色的普通攻击、重击与下落攻击",
+  "def_en": "A character's normal attacks, charged attacks and plunging attacks."
+ },
+ "元素战技": {
+  "en": "Elemental skill",
+  "aliases": [
+   "elemental skill",
+   "E技能",
+   "小技能"
+  ],
+  "def_zh": "角色的元素战技，通常以E键释放",
+  "def_en": "A character's Elemental Skill, usually cast with the E key."
+ },
+ "元素爆发": {
+  "en": "Elemental burst",
+  "aliases": [
+   "elemental burst",
+   "burst",
+   "ult",
+   "大招"
+  ],
+  "def_zh": "消耗元素能量释放的强力技能，通常以Q键释放",
+  "def_en": "A powerful skill that consumes Elemental Energy, usually cast with the Q key."
+ },
+ "固有天赋": {
+  "en": "Passive talent",
+  "aliases": [
+   "passive",
+   "passive talent"
+  ],
+  "def_zh": "角色突破后解锁的被动天赋",
+  "def_en": "A passive talent unlocked through ascension."
+ },
+ "命之座": {
+  "en": "Constellation",
+  "aliases": [
+   "constellation",
+   "命座"
+  ],
+  "def_zh": "消耗命星解锁的角色强化效果",
+  "def_en": "A character enhancement unlocked by consuming Stella Fortuna."
+ },
+ "元素反应": {
+  "en": "Elemental reaction",
+  "aliases": [
+   "reaction"
+  ],
+  "def_zh": "不同元素相互作用产生的反应",
+  "def_en": "A reaction produced when different elements interact."
+ },
+ "增幅反应": {
+  "en": "Amplifying reaction",
+  "aliases": [
+   "amplifying reaction"
+  ],
+  "def_zh": "提升触发伤害倍率的元素反应，如蒸发与融化",
+  "def_en": "A reaction that multiplies the triggering damage, such as Vaporize and Melt."
+ },
+ "剧变反应": {
+  "en": "Transformative reaction",
+  "aliases": [
+   "transformative reaction"
+  ],
+  "def_zh": "产生额外伤害或效果的元素反应，如超载、扩散、绽放",
+  "def_en": "A reaction that creates additional damage or effects, such as Overloaded, Swirl and Bloom."
+ },
+ "激化反应": {
+  "en": "Additive reaction",
+  "aliases": [
+   "quicken reaction",
+   "Quicken",
+   "additive reaction"
+  ],
+  "def_zh": "草元素与雷元素相关的激化类反应，如超激化与蔓激化",
+  "def_en": "The Quicken family of Dendro/Electro reactions, such as Aggravate and Spread."
+ },
+ "月曜反应": {
+  "en": "Lunar reaction",
+  "aliases": [
+   "lunar reaction",
+   "Lunar"
+  ],
+  "def_zh": "与月相关的特殊元素反应，如月感电、月绽放",
+  "def_en": "Special moon-related elemental reactions, such as Lunar-Charged and Lunar-Bloom."
+ },
+ "地区": {
+  "en": "Region",
+  "aliases": [
+   "nation",
+   "country"
+  ],
+  "def_zh": "提瓦特大陆上的国家与地区",
+  "def_en": "A nation or region on the continent of Teyvat."
+ },
+ "蒙德": {
+  "en": "Mondstadt",
+  "aliases": [],
+  "def_zh": "风神统治的自由之国及其境内地点",
+  "def_en": "The nation of freedom ruled by the Anemo Archon, and places within it."
+ },
+ "璃月": {
+  "en": "Liyue",
+  "aliases": [],
+  "def_zh": "岩神统治的契约之国及其境内地点",
+  "def_en": "The nation of contracts ruled by the Geo Archon, and places within it."
+ },
+ "稻妻": {
+  "en": "Inazuma",
+  "aliases": [],
+  "def_zh": "雷神统治的永恒之国及其境内地点",
+  "def_en": "The nation of eternity ruled by the Electro Archon, and places within it."
+ },
+ "须弥": {
+  "en": "Sumeru",
+  "aliases": [],
+  "def_zh": "草神统治的智慧之国及其境内地点",
+  "def_en": "The nation of wisdom ruled by the Dendro Archon, and places within it."
+ },
+ "枫丹": {
+  "en": "Fontaine",
+  "aliases": [],
+  "def_zh": "水神统治的正义之国及其境内地点",
+  "def_en": "The nation of justice ruled by the Hydro Archon, and places within it."
+ },
+ "纳塔": {
+  "en": "Natlan",
+  "aliases": [],
+  "def_zh": "火神统治的战争之国及其境内地点",
+  "def_en": "The nation of war ruled by the Pyro Archon, and places within it."
+ }
+}

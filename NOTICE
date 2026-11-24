@@ -1,0 +1,56 @@
+Ontology-guided retrieval-augmented generation (ORAG) for theme-specific entity typing: code and annotations
+Copyright 2026 Jinfeng Xiao
+
+This repository is licensed under the Apache License, Version 2.0 (see LICENSE),
+except for the third-party material listed below, which keeps its own license.
+
+
+Third-party material
+====================
+
+BattINFO (Battery Interface Ontology), by the BIG-MAP project and the EMMO
+community, published by EMMC ASBL: https://github.com/BIG-MAP/BattINFO, file
+battinfo-inferred.ttl at commit 6a61af9c7a9f26257788609db31ce094789861df.
+License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+- data/battery/ontology_Battery.txt and data/battery/ontology_Electrode.txt are
+  BattINFO's Battery and Electrode trees as used in the ORAG paper. Every
+  parent-child link in them is a BattINFO subclass link.
+- examples/battery/battinfo-enriched.txt uses BattINFO type names, alternative
+  labels and subtype lists.
+- The definition correction in orag/kb.py quotes a BattINFO definition.
+
+Wikidata, https://www.wikidata.org. License: CC0 1.0,
+https://creativecommons.org/publicdomain/zero/1.0/
+- The statements in examples/battery/battinfo-enriched.txt.
+
+
+Acknowledgement
+===============
+
+The LLM query template in orag/llm.py and the alias example "RFB" in
+orag/kb.py follow the ORAG paper: Xiao, Ding, Barry, Elkaref, De Mel and Han,
+"ORAG: Ontology-Guided Retrieval-Augmented Generation for Theme-Specific Entity
+Typing", COLM 2024, https://openreview.net/forum?id=cKBmZ2PZ6c. They are
+licensed under the Apache License 2.0 with the rest of the code.
+
+The game ontology in data/game/ builds on the ontology used in the ORAG paper.
+
+
+Material not included
+=====================
+
+- Source texts and knowledge bases: the battery articles, the forum posts and
+  news articles, and the knowledge bases built from them and from genshin-db,
+  the game's community wikis, Wikipedia, Wikidata and BattINFO are not
+  included. The annotations give the sources' identifiers and links.
+- Game data: Genshin Impact names, texts and data are copyrighted material and
+  trademarks of COGNOSPHERE PTE. LTD. (HoYoverse). Names of game entities and
+  game terms appear in this repository only as identifiers, in the
+  annotations, the game ontology, the examples, the rebuild instructions in
+  DATA.md and the code's prompts. No text from the game is included.
+- Models: orag/run.py uses Meta-Llama-3-8B-Instruct, Qwen3-Embedding-8B and
+  all-MiniLM-L6-v2 by default, by their Hugging Face IDs. Their weights and
+  outputs are not included; obtain each model under its own license.
+
+This project is not affiliated with or endorsed by HoYoverse, Meta, the
+BattINFO project or the publishers of the source articles.

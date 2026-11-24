@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+data/*/corpus.jsonl
+data/battery/battinfo-enriched.txt
+data/battery/battinfo-inferred.ttl
+data/game/units.jsonl
+data/game/rag_memory.txt
+runs/
